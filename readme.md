@@ -11,6 +11,6 @@
 -   HTML
 -   CSS
 
-![frontendmentor-icon](./app/images/favicon-32x32.png) **This challenge from [frontendmentor](https://www.frontendmentor.io/)**
+![frontendmentor-icon](./images/favicon-32x32.png) **This challenge from [frontendmentor](https://www.frontendmentor.io/)**
 
 `Stay save and Goodbye` 👋
